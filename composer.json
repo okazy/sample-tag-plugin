@@ -1,0 +1,9 @@
+{
+  "name": "ec-cube/TagSample",
+  "version": "1.0.0",
+  "description": "Tag Sample Plugin",
+  "type": "eccube-plugin",
+  "extra": {
+    "code": "TagSample"
+  }
+}
